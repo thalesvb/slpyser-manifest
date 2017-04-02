@@ -10,8 +10,8 @@
            sync-c="true" />
 
   <project path="slpyser"
-           name="thalesvb/slpyser.git">
+           name="slpyser.git" />
   <project path="slpyser/tests/test_data"
-           name="thalesvb/slpyser-test_data.git"/>
+           name="slpyser-test_data.git" />
 
 </manifest>
