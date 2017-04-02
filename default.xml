@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin"
+          fetch=".." />
+
+  <default revision="master"
+           remote="origin"
+           sync-s="true"
+           sync-j="2"
+           sync-c="true" />
+
+  <project path="slpyser"
+           name="thalesvb/slpyser.git">
+  <project path="slpyser/tests/test_data"
+           name="thalesvb/slpyser-test_data.git"/>
+
+</manifest>
